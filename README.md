@@ -4,7 +4,7 @@
 
 The link to my portfolio is [here](https://github.com/jjckv6)
 
-The link back to the main README.md is [here](https://github.com/jjckv6/Markdown/blob/markdown/README.md)
+The link back to the main README.md is [here](https://github.com/jjckv6/Markdown/blob/master/README.md)
 
 ![alt text](https://github.com/jjckv6/Markdown/blob/master/icon256.png)    ![alt text](https://markdown-here.com/img/icon256.png)
 
